@@ -3,7 +3,7 @@
 <p>- For users, can add products to cart, pay</p>
 <p>- For admins, basic CRUD of products</p>
 
-#Technology
+# Technology
 <p>- Microsoft SQL Server</p>
 <p>- MVC / JavaServlet</p>
 
